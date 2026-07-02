@@ -22,7 +22,7 @@
 
 - 👨‍💻 Passionate about **DevOps, Test Automation** and **Cyber Security**
 
-- 💻 Portfolio: [MalinduKalhara.com](https://malindukalhara.com)
+- 💻 Portfolio: [MalinduKalhara.com](https://portfolio-malindu.netlify.app/)
 
 - 📫 Reach me at **malindu1067@gmail.com**
 
