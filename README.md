@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Malindu%20Kalhara%20%7C%20SE%20Undergraduate%20%7C%20DevOps%20Enthusiast&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Banner" />
 </div>
 
-<h3 align="center">Software Engineering Undergraduate | Test Automation | DevOps</h3>
+<h3 align="center">SE Undergraduate | Test Automation | DevOps</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=malindu29&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
