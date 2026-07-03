@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Malindu%20Kalhara%20%7C%20QA%20Engineer%20%7C%20DevOps%20Enthusiast&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Malindu%20Kalhara%20%7C%20SE%20Undergraduate%20%7C%20DevOps%20Enthusiast&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Banner" />
 </div>
 
 <h3 align="center">Software Engineering Undergraduate | Test Automation | DevOps</h3>
