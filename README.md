@@ -102,7 +102,7 @@
 
 ---
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">CONNECT WITH ME</h3>
 <p align="center">
 <a href="https://linkedin.com/in/malindu-kalhara" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="malindu kalhara" height="50" width="50" /></a>
 <a href="https://fb.com/malindu.kalhara.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="malindu kalhara" height="50" width="50" /></a>
@@ -113,6 +113,6 @@
 
 <h3 align="center">☕ SUPPORT</h3>
 <p align="center">
-  <a href="https://buymeacoffee.com/malindu29"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee" /></a>
+  <a href="https://ko-fi.com/malindu29"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="buy me a coffee" /></a>
 </p>
 
